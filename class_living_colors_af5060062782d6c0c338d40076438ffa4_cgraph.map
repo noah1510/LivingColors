@@ -1,0 +1,6 @@
+<map id="LivingColors::turnLampOnHSV" name="LivingColors::turnLampOnHSV">
+<area shape="rect" id="node2" href="$class_living_colors.html#acd05ccb74a93b857a8553136beaa3d3f" title="LivingColors::sendCommand" alt="" coords="255,5,445,32"/>
+<area shape="rect" id="node3" href="$class_c_c2500.html#a37783ba471d0e96c961a1916052aa7c1" title="CC2500::sendByte" alt="" coords="745,5,879,32"/>
+<area shape="rect" id="node5" href="$class_c_c2500.html#a9affed02875e355b67acb49da89e895e" title="CC2500::sendStrobeCommand" alt="" coords="493,31,697,57"/>
+<area shape="rect" id="node4" href="$class_c_c2500.html#ae3cb5c6be392382f5ffc71b0b12fbf07" title="CC2500::spiTransfer" alt="" coords="927,5,1069,32"/>
+</map>

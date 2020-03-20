@@ -1,0 +1,4 @@
+<map id="CC2500::sendStrobeCommand" name="CC2500::sendStrobeCommand">
+<area shape="rect" id="node2" href="$class_c_c2500.html#a37783ba471d0e96c961a1916052aa7c1" title="CC2500::sendByte" alt="" coords="257,5,391,32"/>
+<area shape="rect" id="node3" href="$class_c_c2500.html#ae3cb5c6be392382f5ffc71b0b12fbf07" title="CC2500::spiTransfer" alt="" coords="439,5,581,32"/>
+</map>

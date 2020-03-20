@@ -1,0 +1,15 @@
+<map id="CC2500::spiTransfer" name="CC2500::spiTransfer">
+<area shape="rect" id="node2" href="$class_c_c2500.html#aa624e96f2a93c24808fc204aee15e261" title="CC2500::reset" alt="" coords="241,5,348,32"/>
+<area shape="rect" id="node4" href="$class_c_c2500.html#a37783ba471d0e96c961a1916052aa7c1" title="CC2500::sendByte" alt="" coords="228,107,361,133"/>
+<area shape="rect" id="node13" href="$class_c_c2500.html#a7f02d4d3155d0afd8500277d4f7f4aa5" title="CC2500::sendCommand" alt="" coords="211,56,378,83"/>
+<area shape="rect" id="node14" href="$class_c_c2500.html#ac48fae570a0ae39fbdb4b8c6f1d23b58" title="CC2500::sendBurstCommand" alt="" coords="196,157,393,184"/>
+<area shape="rect" id="node3" href="$class_living_colors.html#ab5c329a571196e5a7f42eff81ee51280" title="LivingColors::init" alt="" coords="484,31,603,57"/>
+<area shape="rect" id="node5" href="$class_c_c2500.html#a9affed02875e355b67acb49da89e895e" title="CC2500::sendStrobeCommand" alt="" coords="441,107,645,133"/>
+<area shape="rect" id="node7" href="$class_living_colors.html#acd05ccb74a93b857a8553136beaa3d3f" title="LivingColors::sendCommand" alt="" coords="693,157,884,184"/>
+<area shape="rect" id="node6" href="$class_living_colors.html#abc7cb81c4e9e8917edae31ca0d888b96" title="LivingColors::learnLamps" alt="" coords="704,107,873,133"/>
+<area shape="rect" id="node8" href="$class_living_colors.html#a7b1f9429c822d22f9d6832e6b055814f" title="LivingColors::setLampColourRGB" alt="" coords="932,56,1151,83"/>
+<area shape="rect" id="node9" href="$class_living_colors.html#a8cd9214bd27021570162a3dc5af3f58a" title="LivingColors::setLampColourHSV" alt="" coords="932,107,1151,133"/>
+<area shape="rect" id="node10" href="$class_living_colors.html#a4b882e958dff94caa0867877cb999d23" title="LivingColors::turnLampOnRGB" alt="" coords="940,157,1143,184"/>
+<area shape="rect" id="node11" href="$class_living_colors.html#af5060062782d6c0c338d40076438ffa4" title="LivingColors::turnLampOnHSV" alt="" coords="941,208,1142,235"/>
+<area shape="rect" id="node12" href="$class_living_colors.html#a9c27d56eff47cb255b4f957fb6c3c8a0" title="LivingColors::turnLampOff" alt="" coords="954,259,1129,285"/>
+</map>

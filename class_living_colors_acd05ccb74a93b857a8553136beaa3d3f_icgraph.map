@@ -1,0 +1,7 @@
+<map id="LivingColors::sendCommand" name="LivingColors::sendCommand">
+<area shape="rect" id="node2" href="$class_living_colors.html#a7b1f9429c822d22f9d6832e6b055814f" title="LivingColors::setLampColourRGB" alt="" coords="244,5,463,32"/>
+<area shape="rect" id="node3" href="$class_living_colors.html#a8cd9214bd27021570162a3dc5af3f58a" title="LivingColors::setLampColourHSV" alt="" coords="244,56,463,83"/>
+<area shape="rect" id="node4" href="$class_living_colors.html#a4b882e958dff94caa0867877cb999d23" title="LivingColors::turnLampOnRGB" alt="" coords="252,107,455,133"/>
+<area shape="rect" id="node5" href="$class_living_colors.html#af5060062782d6c0c338d40076438ffa4" title="LivingColors::turnLampOnHSV" alt="" coords="253,157,454,184"/>
+<area shape="rect" id="node6" href="$class_living_colors.html#a9c27d56eff47cb255b4f957fb6c3c8a0" title="LivingColors::turnLampOff" alt="" coords="266,208,441,235"/>
+</map>

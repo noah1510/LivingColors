@@ -1,0 +1,7 @@
+<map id="LivingColors::turnLampOnRGB" name="LivingColors::turnLampOnRGB">
+<area shape="rect" id="node2" href="$_colour_conversion_8cpp.html#a6a0bae7035bc5e8ae66632e309a570dd" title="convertRGBtoHSV" alt="" coords="285,5,418,32"/>
+<area shape="rect" id="node3" href="$class_living_colors.html#acd05ccb74a93b857a8553136beaa3d3f" title="LivingColors::sendCommand" alt="" coords="256,56,447,83"/>
+<area shape="rect" id="node4" href="$class_c_c2500.html#a37783ba471d0e96c961a1916052aa7c1" title="CC2500::sendByte" alt="" coords="747,56,880,83"/>
+<area shape="rect" id="node6" href="$class_c_c2500.html#a9affed02875e355b67acb49da89e895e" title="CC2500::sendStrobeCommand" alt="" coords="495,81,699,108"/>
+<area shape="rect" id="node5" href="$class_c_c2500.html#ae3cb5c6be392382f5ffc71b0b12fbf07" title="CC2500::spiTransfer" alt="" coords="928,56,1071,83"/>
+</map>
