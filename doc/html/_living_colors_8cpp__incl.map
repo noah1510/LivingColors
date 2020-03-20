@@ -1,3 +1,5 @@
-<area shape="rect" href="$_living_colors_8h.html" title="LivingColors.h" alt="" coords="121,80,223,106">
-<area shape="rect" href="$_c_c2500_8h.html" title="CC2500.h" alt="" coords="5,154,83,181">
-<area shape="rect" href="$_colour_conversion_8h.html" title="ColourConversion.h" alt="" coords="157,154,288,181">
+<map id="src/LivingColors.cpp" name="src/LivingColors.cpp">
+<area shape="rect" id="node2" href="$_living_colors_8h.html" title="LivingColors.h" alt="" coords="127,80,232,107"/>
+<area shape="rect" id="node3" href="$_c_c2500_8h.html" title="CC2500.h" alt="" coords="5,155,87,181"/>
+<area shape="rect" id="node4" href="$_colour_conversion_8h.html" title="ColourConversion.h" alt="" coords="111,155,248,181"/>
+</map>
