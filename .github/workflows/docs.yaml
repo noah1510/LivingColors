@@ -6,8 +6,8 @@ on:
       - master
 
 jobs:
-    doxygen:
-        runs-on: ubuntu-latest
+  doxygen:
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
     - name: install dependencies
